@@ -1,0 +1,3 @@
+dontinline,xyz/generated/MyBenchmark.*
+inline,xyz/MyBenchmark.testMethod
+inline,xyz/MyBenchmark.testMethod

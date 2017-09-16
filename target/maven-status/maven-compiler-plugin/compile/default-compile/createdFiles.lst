@@ -1,0 +1,12 @@
+META-INF/CompilerHints
+xyz/generated/MyBenchmark$BlackHole_1_jmh_B1.class
+xyz/generated/MyBenchmark.class
+xyz/generated/MyBenchmark$MyBenchmark_1_jmh.class
+xyz/generated/MyBenchmark$MyBenchmark_1_jmh_B2.class
+xyz/generated/MyBenchmark$MyBenchmark_1_jmh_B3.class
+xyz/generated/MyBenchmark$BlackHole_1_jmh_B2.class
+xyz/generated/MyBenchmark$BlackHole_1_jmh_B3.class
+xyz/MyBenchmark.class
+xyz/generated/MyBenchmark$BlackHole_1_jmh.class
+META-INF/MicroBenchmarks
+xyz/generated/MyBenchmark$MyBenchmark_1_jmh_B1.class
